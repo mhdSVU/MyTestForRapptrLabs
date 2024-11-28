@@ -1,0 +1,113 @@
+<resources>
+
+    <!-- *** Naming Convention followed:*** -->
+    <!-- [attributeName_attributeDetails]_[screenName]_[elementName]_[elementsDetails]-->
+    <!-- ================================================================================ -->
+
+    <!-- All Heights & Width -->
+    <!-- ******************* -->
+
+    <!-- Heights & Width - Main screen (Coding Tasks)-->
+    <dimen name="height_main_button">55dp</dimen>
+    <dimen name="height_main_button_icon">24dp</dimen>
+    <dimen name="width_main_button_icon">24dp</dimen>
+
+
+<!-- Heights & Width - Chat screen -->
+    <dimen name="width_chat_userimage">50dp</dimen>
+    <dimen name="height_chat_userimage">50dp</dimen>
+    <dimen name="width_chat_bubble_border">1dp</dimen>
+
+
+    <!-- Heights & Width - Login screen-->
+    <dimen name="height_login_button">55dp</dimen>
+    <dimen name="width_login_line_border">1px</dimen>
+
+
+    <!-- ************************************* -->
+
+    <!-- All Margins -->
+    <!-- *********** -->
+
+    <!-- Margins - Main screen (Coding Tasks)-->
+    <dimen name="margin_start_main_button">30dp</dimen>
+    <dimen name="margin_end_main_button">30dp</dimen>
+    <dimen name="margin_bottom_main_button">24dp</dimen>
+    <dimen name="margin_top_main_button_chat">214dp</dimen>
+    <dimen name="margin_bottom_main_button_animation">213dp</dimen>
+
+    <!-- Margins - Animation screen-->
+    <dimen name="margin_start_animation_logo">23dp</dimen>
+    <dimen name="margin_end_animation_logo">22dp</dimen>
+    <dimen name="margin_top_animation_logo">100dp</dimen>
+    <dimen name="margin_start_animation_button_fadein">30dp</dimen>
+    <dimen name="margin_end_animation_button_fadein">30dp</dimen>
+    <dimen name="margin_bottom_animation_button_fadein">30dp</dimen>
+
+    <!-- Margins - Login screen -->
+    <dimen name="margin_top_login_layout">16dp</dimen>
+    <dimen name="margin_start_login_button">25dp</dimen>
+    <dimen name="margin_end_login_button">26dp</dimen>
+    <dimen name="margin_top_login_button">24dp</dimen>
+    <dimen name="margin_bottom_login_button">24dp</dimen>
+    <dimen name="margin_start_login_email">30dp</dimen>
+    <dimen name="margin_end_login_email">30dp</dimen>
+    <dimen name="margin_top_login_email">24dp</dimen>
+    <dimen name="margin_bottom_login_email">16dp</dimen>
+
+    <!-- Margins - Chat screen -->
+    <dimen name="margin_start_chat_layout">16dp</dimen>
+    <dimen name="margin_end_chat_layout">21dp</dimen>
+    <dimen name="margin_top_chat_layout">16dp</dimen>
+    <dimen name="margin_bottom_chat_username">4dp</dimen>
+    <dimen name="margin_end_chat_userimage">7dp</dimen>
+
+    <!-- ************************************* -->
+
+
+    <!-- All Paddings -->
+    <!-- ************-->
+
+    <!-- Paddings - Main screen (Coding Tasks)-->
+    <dimen name="padding_start_end_main_button">22dp</dimen>
+    <dimen name="padding_main_button_icon">16dp</dimen>
+
+    <!-- Paddings - Chat screen -->
+    <dimen name="padding_start_chat_message">8dp</dimen>
+    <dimen name="padding_end_chat_message">8dp</dimen>
+    <dimen name="padding_top_chat_message">8dp</dimen>
+    <dimen name="padding_bottom_chat_message">8dp</dimen>
+
+    <!-- ************************************* -->
+
+    <!-- All Text Sizes -->
+    <!-- ************** -->
+
+    <!-- Text Sizes - Main screen (Coding Tasks)-->
+    <dimen name="text_size_main_button">16sp</dimen>
+
+    <!-- Text Sizes - Chat screen -->
+    <dimen name="text_size_chat_username">13sp</dimen>
+    <dimen name="text_size_chat_message">15sp</dimen>
+
+    <!-- Text Sizes - Login screen -->
+    <dimen name="text_size_login_hint">16sp</dimen>
+    <dimen name="text_size_login_input">16sp</dimen>
+
+    <!-- ************************************** -->
+
+    <!-- All Radius -->
+    <!-- ************** -->
+
+    <!-- Radius - Main screen -->
+    <dimen name="radius_main_button">8dp</dimen>
+
+    <!-- Radius - Chat screen -->
+    <dimen name="radius_chat_bubble">8dp</dimen>
+
+    <!-- ************************************** -->
+
+
+
+
+</resources>

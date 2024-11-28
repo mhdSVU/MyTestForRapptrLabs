@@ -1,0 +1,21 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background Layer -->
+    <item android:right="2dp" android:left="2dp" android:top="2dp" android:bottom="2dp">
+        <shape android:shape="rectangle">
+            <!-- Opacity 80% -->
+            <solid android:color="@color/main_button_layer_background"/>
+            <!-- Rounded corners with 8dp radius -->
+            <corners android:radius="@dimen/radius_main_button"/>
+        </shape>
+    </item>
+
+    <!-- Shadow Layer -->
+    <item android:left="0dp" android:right="0dp" android:top="0dp" android:bottom="0dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/main_button_layer_background"/>
+            <!-- Shadow as an outer layer -->
+            <corners android:radius="@dimen/radius_main_button"/>
+            <solid android:color="@color/main_button_layer_background"/>
+        </shape>
+    </item>
+</layer-list>

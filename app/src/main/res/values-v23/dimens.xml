@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_chat_bubble_border">1dp</dimen>
+</resources>

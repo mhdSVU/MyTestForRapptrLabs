@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Define the rectangle shape -->
+    <solid android:color="@color/chat_bubble_background"/> <!-- White background color for the rectangle -->
+
+    <stroke
+        android:width="@dimen/width_chat_bubble_border"
+        android:color="@color/chat_bubble_stroke"/> <!-- Border color #EFEFEF -->
+
+    <corners android:radius="@dimen/radius_chat_bubble"/>
+
+    <padding
+        android:left="@dimen/padding_start_chat_message"
+        android:right="@dimen/padding_end_chat_message"
+        android:top="@dimen/padding_top_chat_message"
+        android:bottom="@dimen/padding_bottom_chat_message"/>
+</shape>

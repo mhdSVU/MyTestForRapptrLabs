@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_animation">Animation</string>
+    <string name="title_activity_chat">Chat</string>
+    <string name="title_activity_login">Login</string>
+    <string name="desc_logo">D and A Technologies Logo</string>
+</resources>
